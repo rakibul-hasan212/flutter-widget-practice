@@ -24,7 +24,7 @@ The main goal of this repository is to:
 * SingleChildScrollable
 * Icons
 * GridView
-* Drawer
+* MaterialPageRoute for Page Navigator
 * SnackBar
 * TextField & Form
 * Buttons
